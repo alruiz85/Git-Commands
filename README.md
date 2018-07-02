@@ -16,16 +16,19 @@ $ git push origin master
 
 --------------------------------------------------------
 
+## Commit
+
 **Commit changes to head (but not yet to the remote repository):**
 
 $ git commit -m "Commit message"
-
 
 **Commit any files you've added with git add, and also commit any files you've changed since then:**
 
 git commit -a
 
 git push origin master
+
+## Status
 
 git status
 
