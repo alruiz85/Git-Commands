@@ -1,6 +1,6 @@
 # Git-Commands
 
-##### Adding an existing project to GitHub using the command line
+### Adding an existing project to GitHub using the command line
 
 $ git init
 
@@ -29,7 +29,7 @@ git push origin master
 
 git status
 
-##### Branches
+### Branches
 
 **Create a new branch and switch to it:**
 
