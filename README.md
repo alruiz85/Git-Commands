@@ -38,6 +38,10 @@ git status
 
 git checkout -b <branchname>
   
+**Create a new branch from commit and switch to it:**
+  
+git checkout -b new_branch 6e559cb
+  
   
 **Switch from one branch to another:**
 
